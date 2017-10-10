@@ -1,0 +1,58 @@
+ body {
+	background-image: url("../images/halftone.png");
+}
+
+
+footer {
+	background-color: #666666;
+	border-top: 6px solid #4aaaa5;
+	padding: 10px;
+	color: white;
+	text-align: center;
+	line-height: 1.5;
+}
+
+
+.h-custom-scheme {
+	color: #4aaaa5;
+	padding-bottom: 2%;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.navbar-brand  {
+	background-color: #4aaaa5;
+	color: #ffffff;
+}
+
+.border-grey {
+	border-color: #cccccc;
+	border-bottom-width: 2px !important;
+	border-top-width: 0px !important;
+	border-left-width: 0px !important;
+	border-right-width: 0px !important;
+	border-style: solid !important;
+}
+
+.custom-scheme {
+	background-color: #ffffff;
+}
+
+.custom-container-size {
+	max-width: 98% !important;
+}
+
+.p-custom-scheme {
+	color: #777777;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;	
+}
+
+.btn {
+	background-color: #4aaaa5;
+	border-color: #4aaaa5;
+}
+
+.custom-card-title {
+	background-color: #4aaaa5;
+	color: #ffffff;
+
+}
